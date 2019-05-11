@@ -1,0 +1,6 @@
+[submodule "hestia-pure"]
+	path = hestia-pure
+	url = https://github.com/diwao/hestia-pure.git
+[submodule "themes/hestia-pure"]
+	path = themes/hestia-pure
+	url = https://github.com/diwao/hestia-pure.git
