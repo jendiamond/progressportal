@@ -1,5 +1,16 @@
 baseURL = "https://jendiamond.github.io/progressportal"
 publishDir = "docs"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Progress Portal - Jen Diamond"
 theme = "hestia-pure"
+
+[author]
+ author = 'jendiamond'
+ profile = 'I am a software engineer working in Los Angeles.'
+ image = 'image/theme/author.png'
+
+[Params]
+ description = "Jen Diamond's reference blog."
+ keywords = "samvera, blacklight, library, digital assets"
+ twitter = "jendiamond"
+ github = "jendiamond"
